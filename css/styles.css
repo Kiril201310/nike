@@ -43,7 +43,7 @@ font-weight: 300;
 line-height: normal;
 }
 .hero{
-  background-image: url(/img/hero-bg.jpg);
+  background-image: url(../img/hero-bg.jpg);
   background-repeat: no-repeat;
   width: 1440px;
 height: 858px;
@@ -101,7 +101,7 @@ margin-top: 91px;
   justify-content: start;
 }
 .features{
-  background-image: url(/img/bg.jpg);
+  background-image: url(../img/bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   padding-top:75px ;
@@ -145,7 +145,7 @@ width: 300px;
 }
 .reviews{
     
-  background: url(/img/flowers.png) no-repeat left bottom, url(/img/reviews-bg.jpg) no-repeat;
+  background: url(../img/flowers.png) no-repeat left bottom, url(../img/reviews-bg.jpg) no-repeat;
 width: 1440px;
 height: 520px;
 flex-shrink: 0;
@@ -227,7 +227,7 @@ margin-left: 5px;
   justify-content: center;
 }
 .order{
-  background-image: url(/img/order-bg.jpg);
+  background-image: url(../img/order-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
 
